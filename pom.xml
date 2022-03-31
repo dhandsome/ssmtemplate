@@ -47,7 +47,7 @@ https://stackoverflow.com/questions/27037657/stop-intellij-idea-to-switch-java-l
         </plugins>
     </build>
     <properties>
-        <springversion>4.3.9.RELEASE</springversion>
+        <springversion>5.3.18</springversion>
         <junitversion>4.12</junitversion>
         <logbackversion>1.1.1</logbackversion>
         <mysqlversion>5.1.37</mysqlversion>
